@@ -15,7 +15,7 @@ about:
 source:
   project: https://github.com/getjavelin/ramparts
   branch: main
-  commit: f206d33e6fe746aae1d58d00c56073c546189900
+  commit: 46abc0a2d786ce4e7fa4946e73dbd6e95c3559d7
   dockerfile: MCP-Dockerfile
 config:
   description: Configure Ramparts security scanner
