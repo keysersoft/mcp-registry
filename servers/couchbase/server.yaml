@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/605755?s=200&v=4
 source:
   project: https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
-  commit: 9042753a99263f418ef84f1c7762b723e0fa5729
+  commit: f1e2afa0d117babae7c611cc41128067f500bd4b
 config:
   description: Configure the connection to Couchbase
   secrets:
